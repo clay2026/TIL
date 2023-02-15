@@ -2,7 +2,7 @@
 관계는 개체와 개체 사이의 논리적인 연결을 의미한다.
 - 관계에는 개체 간의 관계와 속성 간의 관계가 있다.
 
-<img src="https://user-images.githubusercontent.com/125357376/218909091-966bf974-8068-4fb9-9622-48fc11125267.png">   
+<img width="521" alt="스크린샷 2023-02-15 오전 10 50 48" src="https://user-images.githubusercontent.com/125357376/218930688-699551fc-ffbd-4c2c-bf1b-a8df3e0e381b.png">   
 
 <br>
 <br>
@@ -15,7 +15,7 @@
 - 일 대 다(1:N): 개체 집합 A의 각 원소는 개체 집합 B의 원소 여러 개와 대응하고 있지만, 개체 집합 B의 각 원소는 개체 집합 A의 원소 한 개와 대응하는 관계이다.
 - 다 대 다(N:M): 개체 집합 A의 각 원소는 개체 집합 B의 원소 여러 개와 대응하고, 개체 집합 B의 각 원소도 개체 집합 A의 원소 여러 개와 대응하는 관계이다.
 
-<img src="https://user-images.githubusercontent.com/125357376/218911479-0cdd94da-a2f0-4b71-bb91-699f1b40ccc2.png">
+<img width="521" alt="스크린샷 2023-02-15 오전 11 23 28" src="https://user-images.githubusercontent.com/125357376/218930785-18960729-cc81-41fd-8790-9e3dba9dae1d.png">
 
 <br>
 <br>
@@ -48,7 +48,8 @@
 
 - 관계의 표현
 
-<img src="https://user-images.githubusercontent.com/125357376/218915643-9984ef6c-ff93-405d-a28a-39887ac8848f.png">
+<img width="553" alt="스크린샷 2023-02-15 오전 11 56 34" src="https://user-images.githubusercontent.com/125357376/218931049-20c59d67-ab09-4e1c-adb6-fcb200b9ae49.png">
+
 
 
 <br>
