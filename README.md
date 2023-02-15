@@ -39,11 +39,11 @@
 
 
 ### 3과목: 데이터베이스 구축
-[1. 논리 데이터베이스 설계](https://github.com/clay2026/TIL/tree/main/chapter3/3-1)   
-2. 물리 데이터베이스 설계   
-3. SQL 응용   
-4. SQL 활용   
-5. 데이터 전환   
+[1. 논리 데이터베이스 설계](https://github.com/clay2026/TIL/tree/main/chapter3/3-1)
+2. 물리 데이터베이스 설계
+3. SQL 응용
+4. SQL 활용
+5. 데이터 전환
 
 
 
