@@ -11,6 +11,7 @@
 
 
 ## ETC
+1. [Memo](./ETC/memo.md)
 ---
 
 
