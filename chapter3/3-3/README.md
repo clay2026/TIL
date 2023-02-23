@@ -2,8 +2,8 @@
 
 ## 3. SQL 응용
 
-107. SQL의 개념
-108. DDL
+107. [SQL의 개념](./doc/sec107.md)
+108. [DDL](./doc/sec108.md)
 109. DCL
 110. DML
 111. DML - SELECT-1
