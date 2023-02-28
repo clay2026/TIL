@@ -44,7 +44,7 @@
 2. [물리 데이터베이스 설계](https://github.com/clay2026/TIL/blob/main/chapter3/3-2/README.md)
 3. [SQL 응용](https://github.com/clay2026/TIL/blob/main/chapter3/3-3/README.md)
 4. [SQL 활용](https://github.com/clay2026/TIL/blob/main/chapter3/3-4/README.md)
-5. 데이터 전환
+5. [데이터 전환](https://github.com/clay2026/TIL/blob/main/chapter3/3-5/README.md)
 
 
 

@@ -1,4 +1,6 @@
 
+
+
 CVE(Common Vulnerability and Exposure) 
 대중적으로 알려져있고 영향을 미칠 수 있는 소프트웨어 취약점
 
@@ -12,8 +14,7 @@ Cloud
 컴퓨터 통신망이 복잡한 네트워크 및 서버 구성 등을 알 필요 없이 구름과 같이 내부가 보이지 않고, 일반 사용자는 이 복잡한 내부를 굳이 알 필요도 없이 어디에서나 구름 속의 컴퓨터 자원으로 자기가 원하는 작업을 할 수 있다는 것이다.
 
 API(Application Programming Interface)
-API의 맥락에서 애플리케이션이라는 단어는 고유한 기능을 가진 모든 소프트웨어를 나타낸다.
-인터페이스는 두 애플리케이션 간의 서비스 계약이라고 할 수 있습니다.
+API는 응용 프로그램 개발 시 운영체제나 DBMS 등을 이용할 수 있도록 규칙 등에 대해 정의해 놓은 인터페이스를 의미
 
 IDS(Intrusion Detection System) 
 HIDS(Host) / NIDS(Network)
@@ -151,3 +152,15 @@ Clustered Index
 Non-Clustered Index
 인덱스의 키 값만 정렬되어 있을 뿐 실제 데이터는 정렬되어 있지 않다.
 데이터를 검색하기 위해서는 먼저 인덱스를 검색하여 실제 데이터 위치를 찾아야 한다.
+
+Traffic
+서버와 스위치 등 네트워크 장치에서 일정 시간내에 흐르는 데이터의 양
+
+Framework
+뼈대, 골조를 의미하고 소프트웨어에서는 특정 기능을 수행하기 위해 필요한 클래스나 인터페이스 등을 모아둔 집합체를 의미한다.
+
+APM(Application Performance Management/Monitoring)
+애플리케이션의 성능 관리를 위해 접속자, 자원 현황, 트랜잭션 수행 내역, 장애 진단 등 다양한 모니터링 기능을 제공하는 도구이다.
+
+Optimizer
+작성된 SQL이 가장 효율적으로 수행되도록 최적의 경로를 찾아 주는 모듈로, RBO와 CBO 두 종류가 있다.
