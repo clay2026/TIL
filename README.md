@@ -49,9 +49,9 @@
 
 
 ### 4과목: 프로그래밍 언어 활용
-1. 서버 프로그램 구현
-2. 프로그래밍 언어 활용
-3. 응용 SW 기초 기술 활용
+1. [서버 프로그램 구현](https://github.com/clay2026/TIL/blob/main/chapter4/4-1/README.md)
+2. [프로그래밍 언어 활용](https://github.com/clay2026/TIL/blob/main/chapter4/4-2/README.md)
+3. [응용 SW 기초 기술 활용](https://github.com/clay2026/TIL/blob/main/chapter4/4-3/README.md)
 
 
 
