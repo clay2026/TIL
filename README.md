@@ -56,9 +56,9 @@
 
 
 ### 5과목: 정보시스템 구축 관리
-1. 소프트웨어 개발 방법론 활용
-2. IT프로젝트 정보 시스템 구축 관리
-3. 소프트웨어 개발 본안 구축
-4. 시스템 보안 구축
+1. [소프트웨어 개발 방법론 활용](https://github.com/clay2026/TIL/blob/main/chapter5/5-1/README.md)
+2. [IT프로젝트 정보 시스템 구축 관리](https://github.com/clay2026/TIL/blob/main/chapter5/5-2/README.md)
+3. [소프트웨어 개발 보안 구축](https://github.com/clay2026/TIL/blob/main/chapter5/5-3/README.md)
+4. [시스템 보안 구축](https://github.com/clay2026/TIL/blob/main/chapter5/5-4/README.md)
 
     
